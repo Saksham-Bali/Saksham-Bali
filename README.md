@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saksham-Bali
-- 👀 I’m interested in technology and physics .
+- 👀 I’m interested in technology and mathematics .
 - 🌱 I’m currently learning python .
 
 <!---
